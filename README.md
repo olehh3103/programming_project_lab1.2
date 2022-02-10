@@ -10,7 +10,7 @@ To run the program you have to provide it with the following data:
 * longitude, 
 * path to your dataset.
 ## Example how to run the program:
-* python3 main.py 2000 49.83826 24.02324 /mnt/d/labs/locations.list
+* \>>> python3 main.py 2000 49.83826 24.02324 /mnt/d/labs/locations.list
 ***
 Now, all you have to do is wait...
 ![image](https://user-images.githubusercontent.com/92575053/153434769-8e6ab8b9-6ffb-4c0a-a4c4-34b9b6eaaed4.png)
@@ -19,3 +19,6 @@ At the end the program will create an html-file if in the dataset was more than 
 ##example:
 ![image](https://user-images.githubusercontent.com/92575053/153436989-26231e9a-88ae-4027-a9da-3cd1338372ca.png)
 P.S. there are two points in Lviv, Kyiv, and NYC
+***
+## Description of functions
+
