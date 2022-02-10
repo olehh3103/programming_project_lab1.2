@@ -25,6 +25,6 @@ P.S. there are two points in Lviv, Kyiv, and NYC
 ## Description of functions
 * ![image](https://user-images.githubusercontent.com/92575053/153439263-ac9d9ea9-c9dc-4d35-b1d9-a720505ebe52.png)
 * ![image](https://user-images.githubusercontent.com/92575053/153439448-129048b9-a6c8-40aa-bd5a-5f342db3f67c.png)
-* ![image](https://user-images.githubusercontent.com/92575053/153439606-0dc07a86-0ea3-46cc-88b0-bdcb8a17eee3.png)
+* ![image](https://user-images.githubusercontent.com/92575053/153441166-c83dfbf3-f688-4773-8e06-e39cf520ec7d.png)
 ## That's all! 
 ### Prepared by Oleh Hykavyy
