@@ -88,8 +88,8 @@ def main(year: str, lat: float, lon: float, path: str):
 
 def map_making(lat, lon, list_of_moves):
     """
-    The function makes an HTML file of 10 points in the world map
-    and names
+    The function will create an html-file if in the dataset
+    was more than 10 unique movies with unique locations
     """
     my_map = folium.Map(tiles="Stamen Terrain",\
     location=[lat, lon], zoom_start=10)
